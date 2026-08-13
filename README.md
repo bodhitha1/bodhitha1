@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **YOUR NAME**
+# 👋 Hi, I'm **BODHITHA ILHARA**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
@@ -25,9 +25,9 @@
 
 ```javascript
 const developer = {
-    name: "YOUR NAME",
+    name: "BODHITHA ILHARA",
     role: "Undergraduate Student",
-    university: "YOUR UNIVERSITY",
+    university: "SOUTH EASTERN UNIVERSITY",
     location: "Sri Lanka 🇱🇰",
 
     interests: [
@@ -195,9 +195,8 @@ const developer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bodhitha1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodhitha1&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180" src="https://git-hub-readme-stats-kappa.vercel.app/api?username=bodhitha1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0B1120&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1"/>
+<img height="180" src="https://git-hub-readme-stats-kappa.vercel.app/api/top-langs/?username=bodhitha1&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1"/>
 
 </div>
 
@@ -225,7 +224,12 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bodhitha1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%"/>
+<img
+  src="https://github-profile-trophy-zeta-jade.vercel.app/?username=bodhitha1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+  width="60%"
+  alt="GitHub Achievements"
+/>
+
 
 </div>
 
